@@ -10,4 +10,4 @@ wheels/
 .venv
 
 # Pygame Logging
-game_state.json1
+game_state.jsonl
