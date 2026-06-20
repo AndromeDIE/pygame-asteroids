@@ -8,3 +8,6 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Pygame Logging
+game_state.json1
