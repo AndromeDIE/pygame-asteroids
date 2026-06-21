@@ -12,7 +12,7 @@ To run the project open your UNIX-Shell of choice (WSL works too) and install as
 curl -LsSf https://astral.sh/uv/install.sh | sh
 ```
 
-Then create a virtual environment within the project folder via
+Then create a virtual environment within the project root via
 ```
 uv venv
 ```
